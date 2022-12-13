@@ -1,4 +1,4 @@
-.colors {
+button {
     color: white;
     background-color: #1b1b1b;
     font-weight: 300;
@@ -22,7 +22,6 @@ input {
 }
 
 .container {
-    flex-direction: column;
     margin: 10pc;
     background-color: #424242;
     padding: 3pc;

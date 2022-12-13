@@ -27,7 +27,6 @@ delButton.addEventListener('click', () => {
     input.value = newText
 })
 
-
 nums.forEach(num => {
     num.addEventListener('click', (e) => {
         input.value += e.target.textContent
